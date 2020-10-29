@@ -1,0 +1,25 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/PrimitiveNunitTesting/.vs/PrimitiveNunitTesting
+/msu_labs/.vs/msu_labs/v16
+/msu_labs/l1/bin/Debug
+/msu_labs/l1/obj
+/msu_labs/l1/Properties
+/msu_labs/l2/bin/Debug
+/msu_labs/l2/obj
+/msu_labs/l2/Properties
+/msu_labs/l1/App.config
+/msu_labs/l2/App.config
+/msu_labs/l3/bin/Debug
+/msu_labs/l3/obj
+/msu_labs/l3/Properties
+/msu_labs/l3/App.config
+/PrimitiveNunitTesting/PrimeNumbers/bin/Debug
+/PrimitiveNunitTesting/PrimeNumbers/obj
+/PrimitiveNunitTesting/PrimeNumbers/Properties
+/PrimitiveNunitTesting/PrimeNumbers/App.config
+/PrimitiveNunitTesting/PrimitiveNUnitTest/bin/Debug/netcoreapp3.1
+/PrimitiveNunitTesting/PrimitiveNUnitTest/obj
